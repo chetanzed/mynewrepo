@@ -1,4 +1,4 @@
-function double (num){
+function doublee (num){
 return x=3;
 }
 
